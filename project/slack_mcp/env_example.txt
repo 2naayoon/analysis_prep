@@ -1,0 +1,2 @@
+# Slack Bot Token
+SLACK_BOT_TOKEN=xoxb-your-bot-token-here
